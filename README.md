@@ -61,7 +61,6 @@ To encourage casual riders to become annual members, Cyclistic should:
    git clone [repository-url]
    ```
 2. Open the Jupyter Notebook (`EDA.ipynb`) to review the detailed analysis.
-3. Refer to the presentation slides (`Cyclistic bike-share analysis.pptx`) for a high-level summary.
 
 ## Conclusion
 This case study demonstrates how data-driven strategies can enhance customer conversion and maximize revenue. By understanding user behavior and leveraging digital media, Cyclistic can achieve its goal of growing annual memberships.
